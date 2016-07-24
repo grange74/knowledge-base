@@ -10,39 +10,40 @@ You might ask, why bother when people can just use Google. It is not always that
 
 ## Table of Contents
 
-To start with i will put the content directly on this page but as it grows i will break it down into separate files in sub-directories.
+To start with I will put the content directly on this page but as it grows i will break it down into separate files in sub-directories.
 
-1. [Programming Languages](#Programming Languages) 
-2. [Version Control](#Version Control)
+1. [Programming Languages](#programming-languages) 
+2. [Version Control](#version-control)
 
-Others possible topics: DevOps/SRE, Testing, Mac Tips, Agile.
+Other possible topics: DevOps, SRE, Distributed Systems, Monitoring, Logging, Testing, Mac Tips, Agile.
 
 
 ## Programming Languages
+While developers spend a lot of time debating which programming language is the best or why they hate a particular one, i think most would agree that learning multiple languages will make you a better developer.
 
 ### Books to Buy
 
 #### Go
 
-[http://www.gopl.io/](http://www.gopl.io/)
+* [The Go Programming Language](http://www.gopl.io/) by Alan A. A. Donovan and Brian W. Kernighan
 
 ### Free Online Books
 
 #### Clojure
-[Clojure for the brave and true](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [Clojure for the brave and true](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 
 #### Haskell
-[Learn you a Haskell for great good](http://learnyouahaskell.com/chapters)
+* [Learn you a Haskell for great good](http://learnyouahaskell.com/chapters)
 
 #### Java
-[What's new in Java 8](https://leanpub.com/whatsnewinjava8/read)
+* [What's new in Java 8](https://leanpub.com/whatsnewinjava8/read)
 
 #### JavaScript
-[Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ## Version Control
 
 ### Free Online Books
 
-[Pro Git](https://git-scm.com/book/en/v2)
+* [Pro Git](https://git-scm.com/book/en/v2)
 
